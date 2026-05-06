@@ -1,0 +1,44 @@
+{
+  "patients": [
+    {
+      "id": "P001",
+      "name": "Amit Sharma",
+      "age": 34,
+      "gender": "Male",
+      "disease": "High BP",
+      "doctor": "Dr. Mehta"
+    },
+    {
+      "id": "P002",
+      "name": "Neha Verma",
+      "age": 28,
+      "gender": "Female",
+      "disease": "Fever",
+      "doctor": "Dr. Mehta"
+    },
+    {
+      "id": "P003",
+      "name": "Rahul Singh",
+      "age": 45,
+      "gender": "Male",
+      "disease": "Diabetes",
+      "doctor": "Dr. Gupta"
+    },
+    {
+      "id": "P004",
+      "name": "Priya Kapoor",
+      "age": 22,
+      "gender": "Female",
+      "disease": "Skin Allergy",
+      "doctor": "Dr. Mehta"
+    },
+    {
+      "id": "P005",
+      "name": "Vikas Yadav",
+      "age": 39,
+      "gender": "Male",
+      "disease": "Asthma",
+      "doctor": "Dr. Gupta"
+    }
+  ]
+}
